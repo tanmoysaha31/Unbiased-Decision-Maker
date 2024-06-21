@@ -29,7 +29,7 @@ The script creates a complex decision-making process by using multiple algorithm
 
 1. **Clone the Repository**:
     ```bash
-    git clone https://github.com/yourusername/your-repo-name.git
+    git clone https://github.com/tanmoysaha31/Unbiased-Decision-Maker.git
     cd your-repo-name
     ```
 
@@ -42,7 +42,7 @@ The script creates a complex decision-making process by using multiple algorithm
 
 1. **Execute the Script**:
     ```bash
-    python decision_generator.py
+    python Unbiased Decision Maker (6 Algorithms).py
     ```
 
 2. **User Input**:
@@ -216,7 +216,7 @@ This project is licensed under the MIT License.
 
 ## Contact
 
-For any questions or suggestions, please contact [your.email@example.com](mailto:your.email@example.com).
+For any questions or suggestions, please contact [tanmoysaha2003@gmail.com](mailto:your.email@example.com).
 
 ---
 
